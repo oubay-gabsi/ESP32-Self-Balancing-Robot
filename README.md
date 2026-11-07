@@ -41,7 +41,7 @@ The electronic circuit was assembled and soldered manually onto a perfboard.
 
 The wiring diagram illustrates the connections between the ESP32, MPU6050, TB6612FNG motor driver, motors, and power supply.
 
-![Robot wiring diagram](images/wiring_diagram.png)
+![Robot wiring diagram](Hardware/wiring_diagram.jpg)
 
 ### Main connections
 
