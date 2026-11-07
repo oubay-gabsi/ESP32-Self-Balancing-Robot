@@ -8,7 +8,7 @@ The goal was to apply my Electrical and Electronics Engineering knowledge to a p
 
 <!-- Add your demonstration video link here -->
 
-![Self-balancing robot](images/robot_finished.jpeg)
+![Self-balancing robot](Images/robot_finished.jpeg)
 
 ## Mechanical Design
 
@@ -21,7 +21,7 @@ The design consists of:
 - Electronic components mounted on a perfboard.
 - Battery holder mounted on the upper platform.
 
-![SolidWorks CAD design](images/solidworks_design.png)
+![SolidWorks CAD design](Images/solidworks_design.JPG)
 
 ## Hardware Components
 
