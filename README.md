@@ -8,7 +8,7 @@ The goal was to apply my Electrical and Electronics Engineering knowledge to a p
 
 <!-- Add your demonstration video link here -->
 
-![Self-balancing robot](images/robot_finished.jpg)
+![Self-balancing robot](images/robot_finished.jpeg)
 
 ## Mechanical Design
 
