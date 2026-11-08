@@ -1,4 +1,4 @@
-# Self-Balancing Robot 
+# ESP32-Self-Balancing-Robot 
 
 An independently developed two-wheel self-balancing robot built from scratch over one month. This project combines mechanical design, electronics, embedded programming, sensor fusion, and PID control using an ESP32.
 
