@@ -21,7 +21,7 @@ The design consists of:
 - Electronic components mounted on a perfboard.
 - Battery holder mounted on the upper platform.
 
-![SolidWorks CAD design](Images/solidworks_design2.jpg)
+![SolidWorks CAD design](Images/solidworks_design.jpg)
 
 ## Hardware Components
 
