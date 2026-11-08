@@ -26,26 +26,3 @@ This document lists the main hardware components, their specifications, quantiti
 | C/C++ | Programming the robot's control system. |
 | SolidWorks  | Designing the robot frame and mechanical parts. |
 | 3D Printing | Manufacturing the designed mechanical parts. |
-
-## Component Roles
-
-- **ESP32:** Reads sensor measurements, estimates the robot's orientation, and executes the PID control algorithm.
-- **MPU6050:** Provides accelerometer and gyroscope measurements to estimate the robot's tilt angle.
-- **TB6612FNG:** Receives control signals from the ESP32 and drives the two DC motors.
-- **DC Motors:** Adjust their speed and direction to keep the robot upright.
-- **LiPo Batteries:** Provide electrical power to the system.
-- **Buck Converter:** Regulates the battery voltage to provide a stable supply for the electronics.
-
-## Assembly and Design
-
-- The electronic circuit is assembled and soldered onto a 12 cm × 8 cm perfboard.
-- The robot frame was designed using SolidWorks.
-- The mechanical parts are manufactured using 3D printing.
-- The ESP32 communicates with the MPU6050 through the I2C interface.
-- The PID control algorithm processes the sensor measurements and generates motor control signals.
-
-## Notes
-
-- Battery configuration (series or parallel) determines the total voltage and capacity.
-- Component specifications may be updated as the project develops.
-- The design combines custom mechanical parts with electronic components to achieve a self-balancing system.
