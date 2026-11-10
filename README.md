@@ -43,11 +43,11 @@ The electronic circuit was assembled and soldered manually onto a perfboard.
 
 Top view of the assembled circuit:
 
-![Perfboard Top](images/perfboard_top.jpg)
+![Perfboard Top](Images/prefboard_top.jpg)
 
 Bottom view showing the soldering and connections:
 
-![Perfboard Bottom](images/perfboard_bottom.jpg)
+![Perfboard Bottom](Images/perfboard_bottom.jpg)
 
 ## Circuit Design
 
