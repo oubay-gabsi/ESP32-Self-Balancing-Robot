@@ -37,6 +37,18 @@ The design consists of:
 
 The electronic circuit was assembled and soldered manually onto a perfboard.
 
+## Hardware Assembly
+
+### Perfboard
+
+Top view of the assembled circuit:
+
+![Perfboard Top](images/perfboard_top.jpg)
+
+Bottom view showing the soldering and connections:
+
+![Perfboard Bottom](images/perfboard_bottom.jpg)
+
 ## Circuit Design
 
 The wiring diagram illustrates the connections between the ESP32, MPU6050, TB6612FNG motor driver, motors, and power supply.
